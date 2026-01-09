@@ -20,60 +20,27 @@
 
 ## 🚀 About Me
 
-I’m **Sujal Memane**, an **Android Developer** focused on building  
-**clean, scalable, and cloud-backed mobile applications**.
+I’m **Sujal Memane**, a **Junior Android Developer** currently pursuing a **B.E. in Computer Engineering with Honors in AI/ML**. I specialize in building production-grade Android applications, owning the complete lifecycle from architecture to deployment.
 
-My journey began with **C/C++**, evolved into **Java & Kotlin**, and now extends into  
-**Python, Firebase, Cloudflare, AWS, and backend systems**.
-
-I value:
-- 📐 Clean architecture  
-- ⚡ Performance & reliability  
-- 🌱 Continuous learning by building  
+- 🎓 **Education**: Expected 2027 from Nutan Maharashtra Institute of Engineering and Technology.
+- 💡 **Experience**: Delivered 3+ production-grade apps and optimized UX for gaming and ed-tech products.
+- 🏆 **Achievements**: Winner of 7+ national-level hackathons.
 
 ---
 
 ## 💻 Tech Stack
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 📱 Android Development
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-</td>
-<td width="50%" valign="top">
-
 ### 👨‍💻 Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![XML](https://img.shields.io/badge/XML-FFA164?style=for-the-badge&logo=xml&logoColor=white)
 
-</td>
-</tr>
+### 📱 Android Ecosystem
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white) ![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![RoomDB](https://img.shields.io/badge/RoomDB-4285F4?style=for-the-badge&logo=sqlite&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-00b0ff?style=for-the-badge&logo=google&logoColor=white) ![Retrofit](https://img.shields.io/badge/Retrofit-607D8B?style=for-the-badge&logo=square&logoColor=white)
 
-<tr>
-<td width="50%" valign="top">
+### ☁️ Backend & Cloud
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Scrapy](https://img.shields.io/badge/Scrapy-60A665?style=for-the-badge&logo=scrapy&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ☁️ Cloud & Backend
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ Databases & Data
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-</td>
-</tr>
-</table>
+### 📐 Core Concepts
+![DSA](https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=coding&logoColor=white) ![SDLC](https://img.shields.io/badge/SDLC-455A64?style=for-the-badge&logo=gitbook&logoColor=white) ![AI/ML](https://img.shields.io/badge/AI/ML_Integration-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
