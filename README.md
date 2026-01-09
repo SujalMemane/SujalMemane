@@ -1,69 +1,101 @@
 <h1 align="center">👋 Hi, I'm Sujal Memane</h1>
+<h3 align="center">📱 Android Developer | ☁️ Cloud & Backend | 🤖 AI Learner</h3>
 
 <p align="center">
-  🤖 Android Developer | 💡 AI Enthusiast | 💻 DSA + Competitive Programmer  
+  <a href="https://github.com/SujalMemane">
+    <img src="https://img.shields.io/github/followers/SujalMemane?label=GitHub&style=for-the-badge&color=3DDC84" />
+  </a>
+  <a href="https://www.linkedin.com/in/sujalmemane23/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/8R7WvrLE1D/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:sujal.memane23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-Hello, I’m **Sujal Memane** — an **Android Developer** passionate about building **AI-powered, scalable**, and **user-focused mobile applications**.
+I’m **Sujal Memane**, an **Android Developer** focused on building  
+**clean, scalable, and cloud-backed mobile applications**.
 
-My coding journey began with **C/C++**, and over time I’ve grown into a **Java + Python** developer crafting solutions that fuse great design with real-world functionality. Whether it’s a creative utility app or an AI-integrated platform, my focus is always:  
-**Performance. Scalability. Seamless UX.**
+My journey began with **C/C++**, evolved into **Java & Kotlin**, and now extends into  
+**Python, Firebase, Cloudflare, AWS, and backend systems**.
 
----
-
-### 🛠️ Tech Stack
-
-#### 👨‍💻 Programming Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
-
-#### 📱 Android Development  
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%23000000.svg?style=flat&logo=android&logoColor=white)  
-![XML](https://img.shields.io/badge/XML-%23e34c26.svg?style=flat&logo=xml&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)  
-![REST API](https://img.shields.io/badge/REST-API-blue)
-
-#### 🔧 Tools & Extras  
-- Firebase Auth, Firestore DB  
-- AI integration (OpenAI, custom logic)  
-- UI/UX with Figma  
-- Git & GitHub  
-- Competitive Programming (DSA in Java)
+I value:
+- 📐 Clean architecture  
+- ⚡ Performance & reliability  
+- 🌱 Continuous learning by building  
 
 ---
 
-### 📱 Highlight Projects
+## 💻 Tech Stack
 
-| Project        | Description                                                                 |
-|----------------|-----------------------------------------------------------------------------|
-| 🎓 **CourseCampus** | AI-powered app to search & discover courses across platforms & colleges     |
-| 🔒 **Hide Calculator** | Stealth calculator app that disguises secret file storage access            |
-| 🌌 **Space Explorer** *(WIP)* | AR-based mobile simulation to explore space like the *Interstellar* universe |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Android Development
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+</td>
+<td width="50%" valign="top">
+
+### 👨‍💻 Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Backend
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Databases & Data
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎯 Current Goals
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SujalMemane&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SujalMemane&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SujalMemane&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 📈 Master **DSA in Java** (targeting FAANG-level interviews)  
-- 🤖 Dive deeper into **AI-powered Android apps**  
-- 🧠 Build projects with **real-world impact & performance**  
-- 🌐 Open to **internships, collaborations**, and **freelance opportunities**
+### 📅 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujalMemane&theme=github-compact" width="100%" />
+</p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SujalMemane&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-### 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujalmemane23/)  
-✉️ Email: sujal.memane23@gmail.com  
-📍 Pune, India | 🌍 Available for remote roles
-
----
-
-> “Always eager to innovate, learn, and push the limits of mobile technology.”  
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSujalMemane&count_bg=%233DDC84&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Hits"/>
+<br>
+<b>Android-focused. Cloud-aware. Always improving.</b>
+</p>
